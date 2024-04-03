@@ -6,7 +6,7 @@ Zadanie 1 Tytuł
 
 ✅ 3.5 Obraz ubuntu:22.04 z Javą w wersji 8 oraz Kotlinem [commit](https://github.com/T-H-A-N-N/E-biznes/commit/f0ab409f03399c382a8e93562a55e0be83612f48)
 
-❌ 4.0 Do powyższego należy dodać najnowszego Gradle’a oraz paczkę JDBC SQLite w ramach projektu na Gradle (build.gradle)
+✅ 4.0 Do powyższego należy dodać najnowszego Gradle’a oraz paczkę JDBC SQLite w ramach projektu na Gradle (build.gradle) [commit](https://github.com/T-H-A-N-N/E-biznes/commit/63d637534deb8682b96efafdc706a898678e8a43)
 
 ❌ 4.5 Należy stworzyć przykład typu HelloWorld oraz uruchomienie aplikacji przez CMD oraz gradle
 
