@@ -2,7 +2,7 @@
 
 Zadanie 1 Tytuł
 
-✅ 3.0 Obraz ubuntu z Pythonem w wersji 3.8
+✅ 3.0 Obraz ubuntu z Pythonem w wersji 3.8 [commit](https://github.com/T-H-A-N-N/E-biznes/commit/43622413911384e7a7b4900e8df92a4c5695c255)
 
 ❌ 3.5 Obraz ubuntu:22.04 z Javą w wersji 8 oraz Kotlinem
 
