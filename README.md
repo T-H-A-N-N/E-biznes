@@ -12,4 +12,4 @@ Zadanie 1 Tytuł
 
 ❌ 5.0 Należy dodać konfigurację docker-compose
 
-Kod: (folder lub branch)
+Kod: https://github.com/T-H-A-N-N/E-biznes/tree/main/zadanie1
