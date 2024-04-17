@@ -1,0 +1,10 @@
+@(products: List[models.Product])
+
+@main("Product List") {
+    <h1>Products</h1>
+    <ul>
+        @for(product <- products) {
+            <li>@product.name - $@product.price</li>
+        }
+    </ul>
+}
