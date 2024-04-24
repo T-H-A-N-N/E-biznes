@@ -18,15 +18,15 @@ Zadanie 2 Scala
 
 Należy stworzyć aplikację na frameworku Play w Scali 2.
 
-3.0 Należy stworzyć kontroler do Produktów
+✅ 3.0 Należy stworzyć kontroler do Produktów
 
-3.5 Do kontrolera należy stworzyć endpointy zgodnie z CRUD - dane pobierane z listy
+✅ 3.5 Do kontrolera należy stworzyć endpointy zgodnie z CRUD - dane pobierane z listy
 
-4.0 Należy stworzyć kontrolery do Kategorii oraz Koszyka + endpointy zgodnie z CRUD
+✅ 4.0 Należy stworzyć kontrolery do Kategorii oraz Koszyka + endpointy zgodnie z CRUD
 
-4.5 Należy aplikację uruchomić na dockerze (stworzyć obraz) oraz dodać skrypt uruchamiający aplikację via ngrok
+✅ 4.5 Należy aplikację uruchomić na dockerze (stworzyć obraz) oraz dodać skrypt uruchamiający aplikację via ngrok
 
-5.0 Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUD
+❌ 5.0 Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUD
 
 [commit](https://github.com/T-H-A-N-N/E-biznes/commit/448a61aff650cc9d95d60a2bc581a21e4bbf1b0c)
 
