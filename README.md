@@ -28,7 +28,7 @@ Należy stworzyć aplikację na frameworku Play w Scali 2.
 
 ❌ 5.0 Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUD
 
-Kod: [zadanie1](https://github.com/T-H-A-N-N/E-biznes/tree/main/zadanie2)
+Kod: [zadanie2](https://github.com/T-H-A-N-N/E-biznes/tree/main/zadanie2)
 
 Zadanie 3 Kotlin
 
