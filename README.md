@@ -24,11 +24,9 @@ Należy stworzyć aplikację na frameworku Play w Scali 2.
 
 ✅ 4.0 Należy stworzyć kontrolery do Kategorii oraz Koszyka + endpointy zgodnie z CRUD
 
-✅ 4.5 Należy aplikację uruchomić na dockerze (stworzyć obraz) oraz dodać skrypt uruchamiający aplikację via ngrok
+✅ 4.5 Należy aplikację uruchomić na dockerze (stworzyć obraz) oraz dodać skrypt uruchamiający aplikację via ngrok [commit](https://github.com/T-H-A-N-N/E-biznes/commit/448a61aff650cc9d95d60a2bc581a21e4bbf1b0c)
 
 ❌ 5.0 Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUD
-
-[commit](https://github.com/T-H-A-N-N/E-biznes/commit/448a61aff650cc9d95d60a2bc581a21e4bbf1b0c)
 
 Kod: [zadanie1](https://github.com/T-H-A-N-N/E-biznes/tree/main/zadanie2)
 
