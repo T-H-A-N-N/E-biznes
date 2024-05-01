@@ -43,6 +43,7 @@ Zadanie 3 Kotlin
 5.0 Aplikacja obsłuży dodatkowo jedną z platform: Slack, Messenfer, Webex, Skype, Discrod
 
 [commit](https://github.com/T-H-A-N-N/E-biznes/commit/62278b29b33d58d15b454d767a89cb408a9eaa35)
+[commit](https://github.com/T-H-A-N-N/E-biznes/commit/74214762ad648104a1cae08a40b6f9cea8f6812b)
 
 Zadanie 4 Go
 
