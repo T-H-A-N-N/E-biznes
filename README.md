@@ -41,6 +41,7 @@ Zadanie 3 Kotlin
 4.5 Zwróci listę produktów wg żądanej kategorii
 
 5.0 Aplikacja obsłuży dodatkowo jedną z platform: Slack, Messenfer, Webex, Skype, Discrod
+[commit] = https://github.com/T-H-A-N-N/E-biznes/commit/62278b29b33d58d15b454d767a89cb408a9eaa35
 
 Zadanie 4 Go
 
