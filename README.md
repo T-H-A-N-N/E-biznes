@@ -32,18 +32,16 @@ Kod: [zadanie2](https://github.com/T-H-A-N-N/E-biznes/tree/main/zadanie2)
 
 Zadanie 3 Kotlin
 
-3.0 Należy stworzyć aplikację kliencką w Kotlinie we frameworku Ktor, która pozwala na przesyłanie wiadomości na platformę Discord
+✅ 3.0 Należy stworzyć aplikację kliencką w Kotlinie we frameworku Ktor, która pozwala na przesyłanie wiadomości na platformę Discord
 
-3.5 Aplikacja jest w stanie odbierać wiadomości użytkowników z platformy Discord skierowane do aplikacji (bota)
+✅ 3.5 Aplikacja jest w stanie odbierać wiadomości użytkowników z platformy Discord skierowane do aplikacji (bota) [commit](https://github.com/T-H-A-N-N/E-biznes/commit/62278b29b33d58d15b454d767a89cb408a9eaa35)
 
-4.0 Zwróci listę kategorii na określone żądanie użytkownika
+✅ 4.0 Zwróci listę kategorii na określone żądanie użytkownika
 
-4.5 Zwróci listę produktów wg żądanej kategorii
+✅ 4.5 Zwróci listę produktów wg żądanej kategorii [commit](https://github.com/T-H-A-N-N/E-biznes/commit/74214762ad648104a1cae08a40b6f9cea8f6812b)
 
-5.0 Aplikacja obsłuży dodatkowo jedną z platform: Slack, Messenfer, Webex, Skype, Discrod
+✅ 5.0 Aplikacja obsłuży dodatkowo jedną z platform: Slack, Messenfer, Webex, Skype, Discrod [commit](https://github.com/T-H-A-N-N/E-biznes/commit/8a2879150456365d0dc3e40e6b338c207ac39416)
 
-[commit](https://github.com/T-H-A-N-N/E-biznes/commit/62278b29b33d58d15b454d767a89cb408a9eaa35)
-[commit](https://github.com/T-H-A-N-N/E-biznes/commit/74214762ad648104a1cae08a40b6f9cea8f6812b)
 
 Zadanie 4 Go
 
