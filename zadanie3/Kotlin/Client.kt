@@ -57,6 +57,7 @@ object Client {
     }
 
     private const val discordWebhookUrl = "https://discord.com/api/webhooks/1235338831943827588/taOn9c7EPdzNM8Qo-0r1QFGDOWVd3LpVBS0ojAZDEkdcfVy8AnGqR27tHLLaj_eIH6aj"
+    private const val slackWebhookUrl = "https://hooks.slack.com/services/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"
 
     fun sendMessageToDiscord(message: String) {
         runBlocking {
