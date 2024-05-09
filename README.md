@@ -45,7 +45,7 @@ Zadanie 3 Kotlin
 
 Zadanie 4 Go
 
-3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Produktów zgodny z CRUD
+✅3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Produktów zgodny z CRUD [commit](https://github.com/T-H-A-N-N/E-biznes/commit/0bbf0f83034a1223e59e26238c32458d7d471c12)
 
 3.5 Należy stworzyć model Produktów wykorzystując gorm oraz wykorzystać model do obsługi produktów (CRUD) w kontrolerze (zamiast listy)
 
