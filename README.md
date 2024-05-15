@@ -54,3 +54,7 @@ Zadanie 4 Go
 4.5 Należy stworzyć model kategorii i dodać relację między kategorią, a produktem
 
 5.0 pogrupować zapytania w gorm’owe scope'y
+
+
+
+https://github.com/T-H-A-N-N/E-biznes/commit/21e01e0f9643fc462f7e3fb86a0497acc18b945c
