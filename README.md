@@ -68,7 +68,7 @@ Należy dodać projekt aplikacji klienckiej oraz serwerowej (jeden branch, dwa r
 
 ✅ 3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w hookach gita [commit](https://github.com/T-H-A-N-N/E-biznes/commit/dd16d8b980d4f5f6be65cb9cb8cb95e3885fdafc)
 
-3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod aplikacji serwerowej)
+✅ 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod aplikacji serwerowej) [commit](https://github.com/T-H-A-N-N/E-biznes/commit/81df5d874799f35f1f8706328846a2fe7abf0874)
 
 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod aplikacji serwerowej)
 
