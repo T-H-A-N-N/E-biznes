@@ -66,7 +66,7 @@ Zadanie 7 Sonar
 
 Należy dodać projekt aplikacji klienckiej oraz serwerowej (jeden branch, dwa repozytoria) do Sonara w wersji chmurowej (https://sonarcloud.io/). Należy poprawić aplikacje uzyskując 0 bugów, 0 zapaszków, 0 podatności, 0 błędów bezpieczeństwa. Dodatkowo należy dodać widżety sonarowe do README w repozytorium dane projektu z wynikami.
 
-3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w hookach gita
+✅ 3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w hookach gita [commit](https://github.com/T-H-A-N-N/E-biznes/commit/dd16d8b980d4f5f6be65cb9cb8cb95e3885fdafc)
 
 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod aplikacji serwerowej)
 
