@@ -15,7 +15,7 @@ class TestKtorServerOnBrowserStack(unittest.TestCase):
             'build': 'Ktor Server Build 1'
         }
         self.driver = webdriver.Remote(
-            command_executor='https://YOUR_USERNAME:YOUR_ACCESS_KEY@hub-cloud.browserstack.com/wd/hub',
+            command_executor='',
             desired_capabilities=desired_cap)
         
     def test_get_root(self):
