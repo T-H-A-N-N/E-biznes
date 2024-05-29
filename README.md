@@ -60,6 +60,8 @@ Zadanie 4 Go
 https://github.com/T-H-A-N-N/E-biznes/commit/21e01e0f9643fc462f7e3fb86a0497acc18b945c
 https://github.com/T-H-A-N-N/E-biznes/commit/3d65b1e96552888ec3664c069b0c3b05868bb2e4
 
+https://github.com/T-H-A-N-N/E-biznes/commit/463784b66241a1b390232eefca8e6360eed53d98
+
 
 
 Zadanie 7 Sonar
