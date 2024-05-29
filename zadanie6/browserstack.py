@@ -15,6 +15,7 @@ class TestKtorServerOnBrowserStack(unittest.TestCase):
             'build': 'Ktor Server Build 1'
         }
         self.driver = webdriver.Remote(
+            # before running this code add command executor
             command_executor='',
             desired_capabilities=desired_cap)
         
