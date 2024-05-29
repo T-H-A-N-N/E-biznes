@@ -63,6 +63,7 @@ https://github.com/T-H-A-N-N/E-biznes/commit/3d65b1e96552888ec3664c069b0c3b05868
 https://github.com/T-H-A-N-N/E-biznes/commit/463784b66241a1b390232eefca8e6360eed53d98
 https://github.com/T-H-A-N-N/E-biznes/commit/1c62b09e7e1e6c0347a822406a9a0dc7b526f5aa
 https://github.com/T-H-A-N-N/E-biznes/commit/3456ea34cd94b1d7a7338a9ea70de01b4d63b304
+https://github.com/T-H-A-N-N/E-biznes/commit/cf30ccb50ecbf662f879f368c6c7c68a5f6f9130
 
 
 
