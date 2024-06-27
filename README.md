@@ -83,6 +83,8 @@ Należy dodać projekt aplikacji klienckiej oraz serwerowej (jeden branch, dwa r
 
 https://golangci-lint.run/ https://github.com/pinterest/ktlint https://scalameta.org/scalafmt/docs/installation.html
 
+Zadanie 9 ChatGPT bot
+
 Należy rozszerzyć funkcjonalność wcześniej stworzonego bota. Do niego należy stworzyć aplikajcę frontendową, która połączy się z osobnym serwisem, który przeanalizuje tekst od użytkownika i prześle zapytanie do GPT, a następnie prześle odpowiedź do użytkownika. Cały projekt należy stworzyć w Pythonie.
 
 Dla studentów, którzy nie chcą lub nie mogą korzystać z GPT, zamiast GPT należy wykorzystać LLAMA2 za pomocą narzędzi do wykorzystania LLM lokalnie: https://ollama.com/download/windows
