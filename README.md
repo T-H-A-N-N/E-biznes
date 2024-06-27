@@ -93,7 +93,7 @@ Dla studentów, którzy nie chcą lub nie mogą korzystać z GPT, zamiast GPT na
 
 ✅ 3.5 należy stworzyć interfejs frontowy dla użytkownika, który komunikuje się z serwisem; odpowiedzi powinny być wysyałen do frontendowego interfejsu [commit](https://github.com/T-H-A-N-N/E-biznes/commit/8927290614856fbd8ea2b9d59b41a7a9d66fbd46)
 
-✅ 4.0 stworzyć listę 5 różnych otwarć oraz zamknięć rozmowy [commit]()
+✅ 4.0 stworzyć listę 5 różnych otwarć oraz zamknięć rozmowy [commit](https://github.com/T-H-A-N-N/E-biznes/commit/1bec69776fed23a6fb6ce67d67ce3cd64f7b819c)
 
 ✅ 4.5 filtrowanie po zagadnieniach związanych ze sklepem (np. ograniczenie się jedynie do ubrań oraz samego sklepu) do GPT
 
