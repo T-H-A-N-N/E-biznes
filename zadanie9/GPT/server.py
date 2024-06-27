@@ -1,5 +1,6 @@
 from flask import Flask, request, jsonify, render_template_string
 import openai
+import random
 
 app = Flask(__name__)
 
@@ -15,6 +16,22 @@ def filter_by_topic(text, topics):
         if topic.lower() in text.lower():
             return True
     return False
+
+openings = [
+    "Cześć! Jak mogę Ci dzisiaj pomóc?",
+    "Witaj! Czego szukasz?",
+    "Dzień dobry! Co mogę dla Ciebie zrobić?",
+    "Hej! Jakie masz pytania?",
+    "Witam! Jak mogę pomóc?"
+]
+
+closings = [
+    "Dziękuję za rozmowę! Miłego dnia!",
+    "Do zobaczenia! Życzę miłego dnia!",
+    "Jeśli będziesz potrzebować więcej pomocy, jestem tutaj.",
+    "Miłego dnia! W razie potrzeby, wróć do mnie.",
+    "Dzięki za pytania! Powodzenia!"
+]
 
 @app.route('/')
 def home():
@@ -52,13 +69,16 @@ def chat():
             return jsonify({'error': 'Invalid input'}), 400
         
         user_input = data['message']
-        allowed_topics = ['dogs', 'cats']
+        allowed_topics = ['dogs', 'weather']
 
         if filter_by_topic(user_input, allowed_topics):
+            opening_message = random.choice(openings)
+            closing_message = random.choice(closings)
+            
             response = openai.ChatCompletion.create(
                 model="gpt-3.5-turbo",
                 messages=[
-                    {"role": "system", "content": "Welcome!"},
+                    {"role": "system", "content": opening_message},
                     {"role": "user", "content": user_input}
                 ]
             )
@@ -66,7 +86,7 @@ def chat():
             sentiment = analyze_sentiment(gpt_response)
 
             return jsonify({
-                'response': gpt_response,
+                'response': f"{gpt_response} {closing_message}",
                 'sentiment': 'positive' if sentiment > 0 else 'negative' if sentiment < 0 else 'neutral',
                 'source': 'gpt'
             })
@@ -75,6 +95,9 @@ def chat():
 
     except Exception as e:
         return jsonify({'error': str(e)}), 500
+
+if __name__ == '__main__':
+    app.run(debug=True)
 
 if __name__ == '__main__':
     app.run(debug=True)
